@@ -1,0 +1,11 @@
+sys-apps/file -python
+kde-plasma/discover flatpak
+media-libs/vulkan-loader abi_x86_32
+media-libs/freetype harfbuzz
+media-libs/libaom -abi_x86_32
+games-misc/fortune-mod offensive
+games-misc/xcowsay fortune
+net-misc/spice-gtk usbredir smartcard vala
+app-emulation/spice -smartcard
+app-emulation/qemu usbredir spice smartcard
+net-dns/dnsmasq script

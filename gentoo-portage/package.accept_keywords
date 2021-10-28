@@ -1,0 +1,7 @@
+sys-kernel/gentoo-sources ~amd64
+net-im/discord-bin ~amd64
+games-misc/lolcat ~amd64
+dev-ruby/optimist ~amd64
+dev-ruby/paint ~amd64
+kde-plasma/plasma-meta ~amd64
+kde-plasma/breeze ~amd64
