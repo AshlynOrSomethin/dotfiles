@@ -1,1 +1,1 @@
-hi uhhh use these ig 
+Hey, the are my dotfiles for Gentoo in the main branch, mostly for easy access whenever I need to install Gentoo Linux. Specifically, they are for getting the proprietary NVidia driver, with my use flags and compilation setup how I need them. They'll like not work for you unless you modify them. However, if you know what to modify you may as well make your own. On the other branches, you'll see the documentation on them.
